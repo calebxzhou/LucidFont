@@ -6,14 +6,14 @@
 		"version": "${version}",
 		"metadata": {
 			"name": "LucidFont",
-			"description": "Makes your font lucid! Text rendering codes of this mod are from ModernUI (https://github.com/BloCamLimb/ModernUI), thanks to BloCamLimb!",
+			"description": "Makes your font lucid! \n This mod works with Quilt Loader.\n Text rendering codes of this mod are from ModernUI (https://github.com/BloCamLimb/ModernUI), thanks to BloCamLimb!",
 			"contributors": {
 				"calebxzhou": "aka Davickk"
 			},
 			"contact": {
-				"homepage": "https://example.com/",
-				"issues": "https://github.com/QuiltMC/quilt-template-mod/issues",
-				"sources": "https://github.com/QuiltMC/quilt-template-mod"
+				"homepage": "https://github.com/calebxzhou/LucidFont",
+				"issues": "https://github.com/calebxzhou/LucidFont/issues",
+				"sources": "https://github.com/calebxzhou/LucidFont"
 			},
 			"icon": "assets/example_mod/icon.png"
 		},
